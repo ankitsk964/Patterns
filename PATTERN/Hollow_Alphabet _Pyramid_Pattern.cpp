@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+    A
+   B C
+  D   E
+ F     G
+HIJKLMNOP
+
+*/
+
 int main() {
   
   int size = 5, alpha = 65, num = 0;
@@ -24,4 +34,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
