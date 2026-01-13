@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+*****
+****
+***
+**
+*
+
+*/
+
 int main() {
   // size of the triangle
   int size = 5;
@@ -12,4 +22,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
