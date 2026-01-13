@@ -1,6 +1,19 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+ ***   ***
+***** *****
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+*/
+
 int main() {
   // heart star pattern
   int size = 6;
@@ -36,4 +49,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
