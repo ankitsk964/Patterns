@@ -1,6 +1,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+    A
+   A B
+  A   B
+ A     B
+A       B
+ A     B
+  A   B
+   A B
+    A
+
+*/
+
 int main() {
   int size = 5;
   int alpha = 65;
@@ -42,4 +56,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
