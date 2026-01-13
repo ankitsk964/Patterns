@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
+
+*/
+
 int main() {
   // size of the square
   int size = 5, alpha = 65;
@@ -16,4 +26,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }   
