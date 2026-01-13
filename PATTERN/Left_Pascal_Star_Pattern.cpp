@@ -1,6 +1,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+    *
+   **
+  ***
+ ****
+*****
+ ****
+  ***
+   **
+    *
+
+*/
+
 int main() {
   // left pasal triangle
   int size = 5;
@@ -24,4 +38,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
