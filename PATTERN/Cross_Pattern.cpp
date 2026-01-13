@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+*   *
+ * * 
+  *  
+ * * 
+*   *
+
+*/
+
 int main() {
   // size of cross, use odd number
   int size = 5;
@@ -16,4 +26,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
