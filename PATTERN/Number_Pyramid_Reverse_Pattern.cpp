@@ -1,6 +1,16 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+123456789
+ 1234567
+  12345
+   123
+    1
+
+*/
+
 int main() {
 
   int size = 5;
@@ -16,4 +26,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
