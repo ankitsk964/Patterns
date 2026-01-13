@@ -1,6 +1,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+    1
+   1 2
+  1   2
+ 1     2
+1       2
+ 1     2
+  1   2
+   1 2
+    1
+
+*/
+
 int main() {
   int size = 5, num = 1;
   // upside pyramid
@@ -40,4 +54,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
