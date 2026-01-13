@@ -1,5 +1,18 @@
 #include <iostream>
 using namespace std;
+/*
+    A
+   ABC
+  ABCDE
+ ABCDEFG
+ABCDEFGHI
+ ABCDEFG
+  ABCDE
+   ABC
+    A
+    
+*/
+
 
 int main() {
   int size = 5;
@@ -34,4 +47,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
