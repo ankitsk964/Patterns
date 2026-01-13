@@ -1,6 +1,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+
+*/
+
 int main() {
   // right pascal triangle
   int size = 5;
@@ -19,4 +33,5 @@ int main() {
     cout << "\n";
   }
   return 0;
+
 }
